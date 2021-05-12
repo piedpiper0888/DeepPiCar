@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sugar</folder>
+	<filename>20210426_163418.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\SWEET RICE\Sugar\20210426_163418.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sugar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>1102</ymin>
+			<xmax>2623</xmax>
+			<ymax>2116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sugar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1208</xmin>
+			<ymin>535</ymin>
+			<xmax>4013</xmax>
+			<ymax>2935</ymax>
+		</bndbox>
+	</object>
+</annotation>

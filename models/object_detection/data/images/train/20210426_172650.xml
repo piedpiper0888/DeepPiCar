@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Finely chopped onions</folder>
+	<filename>20210426_172650.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Indian Cottage Cheese\Finely chopped onions\20210426_172650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Onions</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>1240</ymin>
+			<xmax>1280</xmax>
+			<ymax>2849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Onions</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>197</ymin>
+			<xmax>1723</xmax>
+			<ymax>1254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Onions</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1766</xmin>
+			<ymin>445</ymin>
+			<xmax>4032</xmax>
+			<ymax>2527</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cinemon stick</folder>
+	<filename>20210426_191817.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Kadhi Pakora\Cinemon stick\20210426_191817.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1599</xmin>
+			<ymin>297</ymin>
+			<xmax>2947</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>

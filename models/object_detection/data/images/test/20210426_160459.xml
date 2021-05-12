@@ -1,0 +1,86 @@
+<annotation>
+	<folder>Russet potato</folder>
+	<filename>20210426_160459.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Russet potato\20210426_160459.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>1678</ymin>
+			<xmax>1689</xmax>
+			<ymax>2602</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>416</ymin>
+			<xmax>1466</xmax>
+			<ymax>1492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>92</ymin>
+			<xmax>2513</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2570</xmin>
+			<ymin>649</ymin>
+			<xmax>3523</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1989</xmin>
+			<ymin>1540</ymin>
+			<xmax>2961</xmax>
+			<ymax>2383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Russet potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1447</xmin>
+			<ymin>1125</ymin>
+			<xmax>2028</xmax>
+			<ymax>1768</ymax>
+		</bndbox>
+	</object>
+</annotation>

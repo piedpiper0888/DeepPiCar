@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cayenne pepper</folder>
+	<filename>20210426_160103.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Cayenne pepper\20210426_160103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cayenne pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>329</ymin>
+			<xmax>4028</xmax>
+			<ymax>2183</ymax>
+		</bndbox>
+	</object>
+</annotation>

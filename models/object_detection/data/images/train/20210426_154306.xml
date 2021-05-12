@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Minced ginger</folder>
+	<filename>20210426_154306.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Minced ginger\20210426_154306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minced ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1851</xmin>
+			<ymin>925</ymin>
+			<xmax>3099</xmax>
+			<ymax>2383</ymax>
+		</bndbox>
+	</object>
+</annotation>

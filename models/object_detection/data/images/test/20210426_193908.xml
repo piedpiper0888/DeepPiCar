@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Green chilli</folder>
+	<filename>20210426_193908.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Bread Fritters\Green chilli\20210426_193908.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green Chilli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>1159</ymin>
+			<xmax>3666</xmax>
+			<ymax>2640</ymax>
+		</bndbox>
+	</object>
+</annotation>

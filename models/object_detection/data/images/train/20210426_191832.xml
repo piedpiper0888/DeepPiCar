@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Cinemon stick</folder>
+	<filename>20210426_191832.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Kadhi Pakora\Cinemon stick\20210426_191832.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>425</ymin>
+			<xmax>1637</xmax>
+			<ymax>1864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1551</xmin>
+			<ymin>1287</ymin>
+			<xmax>2013</xmax>
+			<ymax>2916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymin>516</ymin>
+			<xmax>3780</xmax>
+			<ymax>1330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2256</xmin>
+			<ymin>1278</ymin>
+			<xmax>3218</xmax>
+			<ymax>2021</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cinnamon stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2213</xmin>
+			<ymin>2168</ymin>
+			<xmax>2675</xmax>
+			<ymax>2625</ymax>
+		</bndbox>
+	</object>
+</annotation>

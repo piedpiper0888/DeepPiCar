@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Baking powder</folder>
+	<filename>20210426_193137.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Bread Fritters\Baking powder\20210426_193137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baking powder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1942</xmin>
+			<ymin>1111</ymin>
+			<xmax>2585</xmax>
+			<ymax>1902</ymax>
+		</bndbox>
+	</object>
+</annotation>

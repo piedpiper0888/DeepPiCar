@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lime juice</folder>
+	<filename>20210426_192045.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Bread Fritters\Lime juice\20210426_192045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lime Juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>816</ymin>
+			<xmax>2466</xmax>
+			<ymax>2340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lime Juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2523</xmin>
+			<ymin>1502</ymin>
+			<xmax>3604</xmax>
+			<ymax>2502</ymax>
+		</bndbox>
+	</object>
+</annotation>

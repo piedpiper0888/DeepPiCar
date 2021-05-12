@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cloves</folder>
+	<filename>20210426_153750.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Cloves\20210426_153750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1408</xmin>
+			<ymin>854</ymin>
+			<xmax>3556</xmax>
+			<ymax>2649</ymax>
+		</bndbox>
+	</object>
+</annotation>

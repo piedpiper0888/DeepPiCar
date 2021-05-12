@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Garlic cloves</folder>
+	<filename>20210426_173839.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Indian Cottage Cheese\Garlic cloves\20210426_173839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garlic cloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1647</xmin>
+			<ymin>649</ymin>
+			<xmax>3085</xmax>
+			<ymax>2025</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garlic cloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>1706</ymin>
+			<xmax>1628</xmax>
+			<ymax>2578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garlic cloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>2173</ymin>
+			<xmax>728</xmax>
+			<ymax>2987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garlic cloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>240</ymin>
+			<xmax>1094</xmax>
+			<ymax>1283</ymax>
+		</bndbox>
+	</object>
+</annotation>

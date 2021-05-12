@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ajwain</folder>
+	<filename>20210426_193428.jpg</filename>
+	<path>C:\Users\ademo\Downloads\Recipes\Bread Fritters\Ajwain\20210426_193428.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ajwain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1347</xmin>
+			<ymin>135</ymin>
+			<xmax>2585</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ajwain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2504</xmin>
+			<ymin>864</ymin>
+			<xmax>3413</xmax>
+			<ymax>2045</ymax>
+		</bndbox>
+	</object>
+</annotation>
