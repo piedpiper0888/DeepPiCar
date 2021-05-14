@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Red chilli</folder>
+	<folder>Red Chilli resized</folder>
 	<filename>20210426_163740.jpg</filename>
-	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Red chilli\20210426_163740.jpg</path>
+	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Red Chilli resized\20210426_163740.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>256</width>
+		<height>256</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1318</xmin>
-			<ymin>497</ymin>
-			<xmax>3104</xmax>
-			<ymax>1583</ymax>
+			<xmin>80</xmin>
+			<ymin>43</ymin>
+			<xmax>209</xmax>
+			<ymax>139</ymax>
 		</bndbox>
 	</object>
 </annotation>
