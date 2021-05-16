@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Butter</folder>
+	<filename>20210426_175310.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Butter/20210426_175310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Butter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>7</ymin>
+			<xmax>155</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Butter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>115</ymin>
+			<xmax>227</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Garam masala</folder>
+	<filename>20210426_154852.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Garam masala/20210426_154852.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garam masala</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>22</ymin>
+			<xmax>256</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garam masala</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>28</ymin>
+			<xmax>256</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garam masala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>65</ymin>
+			<xmax>210</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garam masala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>42</ymin>
+			<xmax>229</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pepper corns</folder>
+	<filename>20210426_190946.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Pepper corns/20210426_190946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepper corns</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>62</ymin>
+			<xmax>256</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pepper corns</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>91</ymin>
+			<xmax>256</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Gram: Flour</folder>
+	<filename>20210426_162540.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Gram: Flour/20210426_162540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gram/ Flour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>3</ymin>
+			<xmax>248</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gram/ Flour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>77</ymin>
+			<xmax>228</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gram/ Flour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>18</ymin>
+			<xmax>221</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gram/ Flour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>101</ymin>
+			<xmax>207</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

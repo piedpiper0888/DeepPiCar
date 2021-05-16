@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Finely chopped onions</folder>
+	<filename>20210426_172652.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Finely chopped onions/20210426_172652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Finely chopped onions</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>82</ymin>
+			<xmax>82</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Finely chopped onions</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>14</ymin>
+			<xmax>131</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Finely chopped onions</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>29</ymin>
+			<xmax>256</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Finely chopped onions</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>36</ymin>
+			<xmax>256</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

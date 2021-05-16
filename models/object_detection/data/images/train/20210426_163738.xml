@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Red Chilli resized</folder>
+	<folder>Red chilli</folder>
 	<filename>20210426_163738.jpg</filename>
-	<path>C:\Users\ademo\Downloads\Recipes\Aloo Gobi\Red Chilli resized\20210426_163738.jpg</path>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Red chilli/20210426_163738.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>67</xmin>
-			<ymin>56</ymin>
-			<xmax>182</xmax>
-			<ymax>130</ymax>
+			<ymin>50</ymin>
+			<xmax>244</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red chilli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>67</ymin>
+			<xmax>222</xmax>
+			<ymax>118</ymax>
 		</bndbox>
 	</object>
 </annotation>

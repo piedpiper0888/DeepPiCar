@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Minced ginger</folder>
+	<filename>20210426_154317.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Minced ginger/20210426_154317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minced ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>26</ymin>
+			<xmax>222</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

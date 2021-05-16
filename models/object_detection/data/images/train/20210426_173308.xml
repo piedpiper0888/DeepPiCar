@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cashew</folder>
+	<filename>20210426_173308.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Cashew/20210426_173308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cashew</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>74</ymin>
+			<xmax>236</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
