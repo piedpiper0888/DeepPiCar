@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Shell Pasta</folder>
+	<filename>20210606_195123.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Raw data/Additional /untitled folder/Shell Pasta/20210606_195123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1237</xmin>
+			<ymin>66</ymin>
+			<xmax>2337</xmax>
+			<ymax>2771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>1066</ymin>
+			<xmax>1767</xmax>
+			<ymax>3886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1182</xmin>
+			<ymin>1511</ymin>
+			<xmax>2457</xmax>
+			<ymax>3836</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Olive oil</folder>
+	<folder>Oil</folder>
 	<filename>20210426_171423.jpg</filename>
-	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/Olive oil/20210426_171423.jpg</path>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/add/Oil/20210426_171423.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Olive oil</name>
+		<name>Oil</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>33</ymin>
-			<xmax>194</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Olive oil</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>57</xmin>
-			<ymin>144</ymin>
-			<xmax>209</xmax>
-			<ymax>229</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Olive oil</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>13</xmin>
-			<ymin>17</ymin>
-			<xmax>222</xmax>
-			<ymax>244</ymax>
+			<xmin>29</xmin>
+			<ymin>82</ymin>
+			<xmax>213</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>

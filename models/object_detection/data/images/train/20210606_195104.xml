@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Shell Pasta</folder>
+	<filename>20210606_195104.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Raw data/Additional /untitled folder/Shell Pasta/20210606_195104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>946</ymin>
+			<xmax>2187</xmax>
+			<ymax>3831</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>951</ymin>
+			<xmax>907</xmax>
+			<ymax>1436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1007</xmin>
+			<ymin>966</ymin>
+			<xmax>1952</xmax>
+			<ymax>2406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1317</xmin>
+			<ymin>1731</ymin>
+			<xmax>2087</xmax>
+			<ymax>3401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>2531</ymin>
+			<xmax>1872</xmax>
+			<ymax>3721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1512</xmin>
+			<ymin>2631</ymin>
+			<xmax>2187</xmax>
+			<ymax>3781</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>2891</ymin>
+			<xmax>1287</xmax>
+			<ymax>3776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shell Pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>2756</ymin>
+			<xmax>1027</xmax>
+			<ymax>3611</ymax>
+		</bndbox>
+	</object>
+</annotation>

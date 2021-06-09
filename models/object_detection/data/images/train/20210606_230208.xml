@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mini Mozzarella Cheese</folder>
+	<filename>20210606_230208.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Coverted Data/INGREDIENTS/add/Mini Mozzarella Cheese/20210606_230208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mini Mozzarella Cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>68</ymin>
+			<xmax>157</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

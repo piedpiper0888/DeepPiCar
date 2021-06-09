@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Semolina(sooji)</folder>
+	<filename>20210606_181248.jpg</filename>
+	<path>/Users/rey/Desktop/Doc/Study Mat./Docs/M.sc/Sem3rd/Cooking Recipe/Raw data/Additional /untitled folder/Semolina(sooji)/20210606_181248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semolina(sooji)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymin>1556</ymin>
+			<xmax>2032</xmax>
+			<ymax>2746</ymax>
+		</bndbox>
+	</object>
+</annotation>
